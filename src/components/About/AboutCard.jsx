@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
 
@@ -30,7 +30,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-          "It’s not a bug; it’s an undocumented feature." {" "}
+          It is not a bug it is an undocumented feature {" "}
           </p>
           <footer className="blockquote-footer">Sai</footer>
         </blockquote>

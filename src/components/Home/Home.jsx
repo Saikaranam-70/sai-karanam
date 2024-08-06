@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
@@ -21,7 +21,7 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                I'M
+                I am
                 <strong className="main-name"> SAI KARANAM</strong>
               </h1>
 
