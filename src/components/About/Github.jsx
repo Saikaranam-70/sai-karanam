@@ -1,6 +1,8 @@
 // import React from "react";
 import GitHubCalendar from "react-github-calendar";
 import { Row } from "react-bootstrap";
+import chroma from 'chroma-js';
+
 
 function Github() {
   return (
