@@ -12,7 +12,7 @@ import {
   DiCss3,
   DiHtml5,
 } from "react-icons/di";
-import chroma from 'chroma-js';
+
 import {
   SiSpringboot,
   SiSpringsecurity,
